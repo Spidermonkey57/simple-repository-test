@@ -1,5 +1,5 @@
 print("welcome user!")
-company_name = input("what is your company's name?")
+company_name = input("Hello !what is your company's name?")
 feet = int(input("Enter the number feet of fiber optic to be installed"))
 if feet > 500:
  rate = 0.50
